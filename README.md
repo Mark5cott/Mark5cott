@@ -10,9 +10,6 @@ I'm passionate about data science and continuously improving my skills in Python
 - Getting to Meetups to talk all things data science with my heros!
 - Looking for a role in data science to test and improve my skills.
 
-## My Latest GitHub Activity :rocket:
-![My GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Mark5cott)
-
 ## My Latest GitHub Metrics 💬
 ![My GitHub Metrics](https://metrics.lecoq.io/Mark5cott)
 
